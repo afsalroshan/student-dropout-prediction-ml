@@ -102,5 +102,5 @@ Random Forest Classifier achieved the highest accuracy among all models.
 
 # Author
 
-Afsal E
+Afsal E | 
 Entri Elevate – DS09
